@@ -1,0 +1,7 @@
+wtiErrorMod = 156, 156, 1298, 547, 
+GenerateMod = 26, 26, 1049, 530, 
+frmMsg = 130, 130, 1272, 521, , 0, 0, 0, 0, C
+frmMain = 104, 104, 1179, 495, Z, 52, 52, 1075, 556, C
+frmProject = 0, 0, 0, 0, C, 52, 52, 1127, 443, C
+frmEntity = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+wtRegistryMod = 0, 0, 0, 0, C

@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[Generate.vbp]
+SCC_Aux_Path =\\Data\D\SourceSafe,
+SCC_Project_Name ="$/WinTech/ILingual/Generate", KWGCAAAA
